@@ -5,9 +5,9 @@
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "https://github.com/mansona/ember-deprecation-error",
   "license": "MIT",
-  "author": "",
+  "author": "Chris Manson <chris@manson.ie>",
   "directories": {
     "doc": "doc",
     "test": "tests"
