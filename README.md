@@ -8,13 +8,6 @@ You could think of this addon as a simplified [ember-cli-deprecation-workflow](h
 
 This addon was created to serve a very specific purpose. I wanted to have a way to configure an [ember-try](https://github.com/ember-cli/ember-try) run to fail on all deprecations rather than use `ember-cli-deprecation-workflow` on my main test run. Since I know you can manage dependencies in ember-try but I couldn't find any way to create a specific config for an ember-try run this seemed like the simplest way to achieve my goal.
 
-## Compatibility
-
-* Ember.js v3.20 or above
-* Ember CLI v3.20 or above
-* Node.js v12 or above
-
-
 ## Installation
 
 You could install this as a dependency using the following command:
