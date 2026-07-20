@@ -1,0 +1,22 @@
+{
+  "solution": {
+    "ember-deprecation-error": {
+      "impact": "major",
+      "oldVersion": "1.0.1",
+      "newVersion": "2.0.0",
+      "tagName": "latest",
+      "constraints": [
+        {
+          "impact": "major",
+          "reason": "Appears in changelog section :boom: Breaking Change"
+        },
+        {
+          "impact": "patch",
+          "reason": "Appears in changelog section :house: Internal"
+        }
+      ],
+      "pkgJSONPath": "./package.json"
+    }
+  },
+  "description": "## Release (2026-07-20)\n\n* ember-deprecation-error 2.0.0 (major)\n\n#### :boom: Breaking Change\n* `ember-deprecation-error`\n  * [#2](https://github.com/mansona/ember-deprecation-error/pull/2) convert this to a source-only v2 addon ([@mansona](https://github.com/mansona))\n\n#### :house: Internal\n* `ember-deprecation-error`\n  * [#3](https://github.com/mansona/ember-deprecation-error/pull/3) setup release-plan ([@mansona](https://github.com/mansona))\n\n#### Committers: 1\n- Chris Manson ([@mansona](https://github.com/mansona))\n"
+}
